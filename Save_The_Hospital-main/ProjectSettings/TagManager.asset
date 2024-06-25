@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - xray
+  - antpoison
+  - respirator
+  - remedy
+  - pneumonia
+  - fratura
+  - sutura
+  - "pe\xE7onha"
+  - termometro
+  - erropoint
+  - pressaopoint
+  - termometropoint
+  - tempValor
+  - pressao
+  - acidente
+  - gripe
+  - xrayEmissor
+  - algodao
+  - seringa
+  - gesso
+  - agulha
+  - corte
+  - Estetoscopio
+  - Covid
+  - Sarampo
+  - Tetano
+  - Antrabica
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer 1
+    uniqueID: 1265995413
+    locked: 0

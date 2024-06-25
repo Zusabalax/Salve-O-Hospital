@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e42e7aba3cd5a684f9d4883f5bae0234
+  - enabled: 1
+    path: "Assets/Scenes/Recep\xE7\xE3o.unity"
+    guid: d1497673ec1e56a43b983040dd05028d
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 4d554cf0e4d9e2549977ec405909a4f3
+  - enabled: 1
+    path: Assets/Scenes/RaioX.unity
+    guid: 9e984ed1b6cc5f94e9d720468b9ad804
+  - enabled: 1
+    path: Assets/Scenes/Enfermagem.unity
+    guid: c90b97b3e90adc14cab3013b1f57ebf6
+  - enabled: 1
+    path: Assets/Scenes/Saida.unity
+    guid: 01cfc28e2ae55e9438f6e10a4bc18f96
+  - enabled: 1
+    path: Assets/Scenes/Respirador.unity
+    guid: 003949da00bf72e49b1ed4128ba8b1c7
+  - enabled: 1
+    path: Assets/Scenes/RespiradorGame.unity
+    guid: d55817830fe83e7489dc0f64d521b001
+  - enabled: 1
+    path: Assets/Scenes/Triagem.unity
+    guid: e6d7f95e271a05c499da5bdd8c5b4a02
+  - enabled: 1
+    path: "Assets/Scenes/JogoQuebraCabe\xE7a.unity"
+    guid: 4805bc9eecc6726499c0c1d6ae7e6617
+  - enabled: 1
+    path: Assets/Scenes/Sala_Vacinas.unity
+    guid: 0ba4e6a468f80934bb3f4ed66d295d0d
+  m_configObjects: {}
