@@ -7841,6 +7841,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tutorial
       objectReference: {fileID: 0}
+    - target: {fileID: 5931624208768262428, guid: 370282f3d46777f4f80173369f5b6367, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5931624208768262430, guid: 370282f3d46777f4f80173369f5b6367, type: 3}
       propertyPath: cena
       value: 6
