@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 9caffa02deb304e4fa6584e620f0b7da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5137625528743648752
+    second: "anima\xE7\xE3o_0"
+  - first:
+      213: 8524226729800974665
+    second: "anima\xE7\xE3o_1"
+  - first:
+      213: 413409831537188704
+    second: "anima\xE7\xE3o_2"
+  - first:
+      213: 5581210521175975942
+    second: "anima\xE7\xE3o_3"
+  - first:
+      213: -1301652250373319065
+    second: "anima\xE7\xE3o_4"
+  - first:
+      213: 6390314845086300910
+    second: "anima\xE7\xE3o_5"
+  - first:
+      213: -327328444109969321
+    second: "anima\xE7\xE3o_6"
+  - first:
+      213: -857103333179549509
+    second: "anima\xE7\xE3o_7"
+  - first:
+      213: -7980940763916108842
+    second: "anima\xE7\xE3o_8"
+  - first:
+      213: 15756451706323017
+    second: "anima\xE7\xE3o_9"
+  - first:
+      213: -6187444895372714582
+    second: "anima\xE7\xE3o_10"
+  - first:
+      213: 6892861157021278351
+    second: "anima\xE7\xE3o_11"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o_0"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 664
+        width: 236
+        height: 426
+      alignment: 9
+      pivot: {x: 0.46954638, y: 0.6040376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012a14a4dcc73b8b0800000000000000
+      internalID: -5137625528743648752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o_3"
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 675
+        width: 275
+        height: 415
+      alignment: 9
+      pivot: {x: 0.42377397, y: 0.5923634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608ed530661747d40800000000000000
+      internalID: 5581210521175975942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o_4"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 263
+        width: 228
+        height: 401
+      alignment: 9
+      pivot: {x: 0.4873114, y: 0.5847693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766196bbc2a9fede0800000000000000
+      internalID: -1301652250373319065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o_10"
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 277
+        width: 243
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5327392, y: 0.5591914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad510076a7c12aa0800000000000000
+      internalID: -6187444895372714582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 15d8b5c2b962e4349a5b11ff6e51d150
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "anima\xE7\xE3o_0": -5137625528743648752
+      "anima\xE7\xE3o_1": 8524226729800974665
+      "anima\xE7\xE3o_10": -6187444895372714582
+      "anima\xE7\xE3o_11": 6892861157021278351
+      "anima\xE7\xE3o_2": 413409831537188704
+      "anima\xE7\xE3o_3": 5581210521175975942
+      "anima\xE7\xE3o_4": -1301652250373319065
+      "anima\xE7\xE3o_5": 6390314845086300910
+      "anima\xE7\xE3o_6": -327328444109969321
+      "anima\xE7\xE3o_7": -857103333179549509
+      "anima\xE7\xE3o_8": -7980940763916108842
+      "anima\xE7\xE3o_9": 15756451706323017
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
